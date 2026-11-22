@@ -1,0 +1,4 @@
+# Python 3.10+. For a CUDA build of PyTorch see README.md.
+torch>=2.4,<3
+torchvision>=0.19,<1
+matplotlib>=3.8,<4
